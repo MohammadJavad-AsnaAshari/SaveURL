@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.1",
+  "name": "MJ Extention",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "mj.png"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
